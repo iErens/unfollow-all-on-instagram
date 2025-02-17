@@ -1,0 +1,16 @@
+firstly. Go to your own profile on Instagram. Then press the following and press F12 to enter the console.
+
+first write this:
+
+'Allow pasting'
+
+and before:
+
+'''let interval = setInterval(() => {
+  document.querySelector('button._acan._acap._acat').click();
+  setTimeout(() => {
+    document.querySelector('button._a9--._a9-_').click();
+  }, 500);
+  window.scrollBy(0, 80);
+}, 5000);
+All that's left is to wait!'''
