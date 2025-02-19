@@ -1,0 +1,15 @@
+İlk önce. Instagram'da kendi profilinize gidin. Daha sonra takip edilenler kısmına girin ve F12 tuşuna basın, Console yazan yere tıklayın.
+
+ilk önce şunu yazıyorsun:
+Allow pasting
+
+ardından da şunu yaz.
+
+let interval = setInterval(() => {
+  document.querySelector('button._acan._acap._acat').click();
+  setTimeout(() => {
+    document.querySelector('button._a9--._a9-_').click();
+  }, 500);
+  window.scrollBy(0, 80);
+}, 5000);
+All that's left is to wait!
